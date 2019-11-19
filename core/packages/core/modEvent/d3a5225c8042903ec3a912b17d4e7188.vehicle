@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'ac32b1cddc807151b01db7bc8f21b547',
+  'package' => 'modx',
+  'class' => 'modEvent',
+  'signature' => 'd3a5225c8042903ec3a912b17d4e7188',
+  'native_key' => 'OnBeforeTempFormSave',
+  'object' => '{"name":"OnBeforeTempFormSave","service":1,"groupname":"Templates"}',
+);

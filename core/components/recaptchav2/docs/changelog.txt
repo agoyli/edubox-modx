@@ -1,0 +1,43 @@
+3.0.1-rc1
+=========
+Add token_key System Setting to build pkg
+Set expected hostname from MODX config
+
+3.0.0-rc1
+=========
+Formalize support for ReCaptcha V3
+Cleaned up sample Chunk for "Invisible" V2
+Release candidate could use more testing
+
+2.3.0-rc1
+=========
+Add support for "Invisible Recaptcha" implementation
+Support custom TPL chunk
+Thanks to @gadgetto for German lexicons
+Thanks to @matdave for validator option
+
+2.2.1-beta1
+===========
+Adds support for lexicons [PR 19](https://github.com/sepiariver/recaptchav2/pull/19)
+Thanks to: https://github.com/lawebfabric
+
+2.0.2-rc1
+=========
+Set default request method to CurlPost
+
+2.0.1-rc1
+=========
+Tiny bit of code cleanup
+
+2.0.0-rc1
+=========
+Update Google Recaptcha class to latest 1.1.2
+https://github.com/google/recaptcha
+
+1.0.0-rc1
+=========
+Fixes for Login package compatibility
+
+0.9.2-beta1
+=====================
+Initial Beta Release.

@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'backupmodx',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '4a60a7e71b605c90ca332b365ff0e97c',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '08acf69c29e5dd1ad268ee4b3091851b',
+  'native_key' => 'backupmodx.cronFiles',
+  'object' => '{"key":"backupmodx.cronFiles","value":"true","xtype":"combo-boolean","namespace":"backupmodx","area":"Cron","editedon":null,"name":"Backup Files","description":"Whether or not to include MODX Files in Cron-Backup."}',
+);

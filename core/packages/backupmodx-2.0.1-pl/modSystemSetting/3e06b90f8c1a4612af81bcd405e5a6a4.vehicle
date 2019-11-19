@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'backupmodx',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '159a4905d67f5b7feaa33b2251060530',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '3e06b90f8c1a4612af81bcd405e5a6a4',
+  'native_key' => 'backupmodx.cronMaxDatabase',
+  'object' => '{"key":"backupmodx.cronMaxDatabase","value":"10","xtype":"textfield","namespace":"backupmodx","area":"Cron","editedon":null,"name":"Max Databases","description":"Maximum stored Backups of Database."}',
+);

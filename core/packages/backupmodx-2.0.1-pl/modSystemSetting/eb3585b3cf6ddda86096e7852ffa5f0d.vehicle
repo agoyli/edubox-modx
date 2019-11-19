@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'backupmodx',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '85f51755967020d9e996dfdfaf683e0f',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'eb3585b3cf6ddda86096e7852ffa5f0d',
+  'native_key' => 'backupmodx.excludes',
+  'object' => '{"key":"backupmodx.excludes","value":"","xtype":"textfield","namespace":"backupmodx","area":"Admin","editedon":null,"name":"Exclude Files \\/ Folders","description":"Files \\/ Folders to exclude from the Backup. Comma separatet list. Assets Placeholder is available. Example: {assets_path}uploads\\/"}',
+);

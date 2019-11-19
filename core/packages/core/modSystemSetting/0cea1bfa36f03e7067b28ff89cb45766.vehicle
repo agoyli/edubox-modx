@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => false,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'd993580fd2251f56303b1d4e58fd7ea8',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '0cea1bfa36f03e7067b28ff89cb45766',
+  'native_key' => 'udperms_allowroot',
+  'object' => '{"key":"udperms_allowroot","value":false,"xtype":"combo-boolean","namespace":"core","area":"authentication","editedon":null}',
+);

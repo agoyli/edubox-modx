@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'backupmodx',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '8e13c2c2e8b1c93e06ef05a03dea41e8',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'fbacf360b221d2589bc19f90aa92f484',
+  'native_key' => 'backupmodx.cronKey',
+  'object' => '{"key":"backupmodx.cronKey","value":"","xtype":"textfield","namespace":"backupmodx","area":"Cron","editedon":null,"name":"Cron Security Key","description":"Security-Key for cron scheduled Backups. Can be any string."}',
+);

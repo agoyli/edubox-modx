@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'backupmodx',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '96eded68379d0b5ad5b55baf4f909747',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '127e7605de7393339d9d8a73efa439a8',
+  'native_key' => 'backupmodx.zipAlias',
+  'object' => '{"key":"backupmodx.zipAlias","value":"zip","xtype":"textfield","namespace":"backupmodx","area":"Files","editedon":null,"name":"Alias zip","description":"Alias for zip compression."}',
+);

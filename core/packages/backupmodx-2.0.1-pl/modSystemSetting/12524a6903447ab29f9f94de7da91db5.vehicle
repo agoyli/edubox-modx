@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'backupmodx',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '14c7be2c66c91a51cd77754cab76f5b8',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '12524a6903447ab29f9f94de7da91db5',
+  'native_key' => 'backupmodx.cronMaxFiles',
+  'object' => '{"key":"backupmodx.cronMaxFiles","value":"5","xtype":"textfield","namespace":"backupmodx","area":"Cron","editedon":null,"name":"Max Files","description":"Maximum stored Backups of Files."}',
+);

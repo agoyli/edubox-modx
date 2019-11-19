@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '53e446e47bfbd028d7cd3b69190aecf7',
+  'package' => 'modx',
+  'class' => 'modEvent',
+  'signature' => '3ea641f6b8d3539d7dc0df1c624e1312',
+  'native_key' => 'OnWebPageInit',
+  'object' => '{"name":"OnWebPageInit","service":5,"groupname":"System"}',
+);

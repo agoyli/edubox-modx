@@ -1,0 +1,1 @@
+# Mekdep Maglumat Dolandyryş Ulgamy

@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'backupmodx',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'd361a492feb2db966cd33e99d0c1aee8',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '37b3e3d60364c761c19b6a0d9a911cbc',
+  'native_key' => 'backupmodx.targetPath',
+  'object' => '{"key":"backupmodx.targetPath","value":"{core_path}components\\/backupmodx\\/backups\\/","xtype":"textfield","namespace":"backupmodx","area":"Admin","editedon":null,"name":"Backup Target Path","description":"The path to the folder to store the backups. Assets Placeholder is available. Example: {core_path}backups\\/"}',
+);

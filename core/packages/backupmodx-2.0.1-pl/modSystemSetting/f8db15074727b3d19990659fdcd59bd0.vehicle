@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'backupmodx',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'be05c53a0b7ec5d53515396dff17d459',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'f8db15074727b3d19990659fdcd59bd0',
+  'native_key' => 'backupmodx.groups',
+  'object' => '{"key":"backupmodx.groups","value":"Administrator","xtype":"textfield","namespace":"backupmodx","area":"Admin","editedon":null,"name":"Groups","description":"Group or comma separated list of Groups. This Groups will have access to the widget."}',
+);

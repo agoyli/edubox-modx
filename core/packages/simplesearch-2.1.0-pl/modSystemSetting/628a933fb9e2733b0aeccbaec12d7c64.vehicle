@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'simplesearch',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'f97efee34c87b060b740a1f96f898275',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '628a933fb9e2733b0aeccbaec12d7c64',
+  'native_key' => 'simplesearch.driver_class_path',
+  'object' => '{"key":"simplesearch.driver_class_path","value":"","xtype":"textfield","namespace":"simplesearch","area":"Drivers","editedon":null}',
+);

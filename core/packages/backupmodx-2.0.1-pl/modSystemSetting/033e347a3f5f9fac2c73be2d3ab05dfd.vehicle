@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'backupmodx',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '4d348dc296cfd98597382bd7349e736b',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '033e347a3f5f9fac2c73be2d3ab05dfd',
+  'native_key' => 'backupmodx.mysqlAlias',
+  'object' => '{"key":"backupmodx.mysqlAlias","value":"mysql","xtype":"textfield","namespace":"backupmodx","area":"Database","editedon":null,"name":"Alias mysql","description":"Alias for mysql."}',
+);

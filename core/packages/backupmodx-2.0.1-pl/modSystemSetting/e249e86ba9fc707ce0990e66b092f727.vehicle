@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'backupmodx',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'b01dc61894b335d2a18e56fd53e379a0',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'e249e86ba9fc707ce0990e66b092f727',
+  'native_key' => 'backupmodx.cronNote',
+  'object' => '{"key":"backupmodx.cronNote","value":"","xtype":"textarea","namespace":"backupmodx","area":"Cron","editedon":null,"name":"Note","description":"Optional descriptional txt-file added to the Backup."}',
+);

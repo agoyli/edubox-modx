@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'admintools',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'a2a87faabe7196e01f89251b4d7bf082',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'c3878bcfb68730834a4fe1ed57fdd6a8',
+  'native_key' => 'admintools_only_current_context_user',
+  'object' => '{"key":"admintools_only_current_context_user","value":false,"xtype":"combo-boolean","namespace":"admintools","area":"admintools_main","editedon":null}',
+);

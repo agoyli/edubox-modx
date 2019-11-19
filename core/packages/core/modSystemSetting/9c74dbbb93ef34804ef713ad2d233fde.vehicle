@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => false,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'c30622b0e6a0048997a35c71ec86dba0',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '9c74dbbb93ef34804ef713ad2d233fde',
+  'native_key' => 'hidemenu_default',
+  'object' => '{"key":"hidemenu_default","value":0,"xtype":"combo-boolean","namespace":"core","area":"site","editedon":null}',
+);

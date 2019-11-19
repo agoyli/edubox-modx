@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => false,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '88b1e76d2d3dd11d45abe62a3ef2c260',
+  'package' => 'modx',
+  'class' => 'modWorkspace',
+  'signature' => '791557ed33eec46e00033f0279911fab',
+  'native_key' => 1,
+  'object' => '{"id":1,"name":"Default MODX workspace","path":"{core_path}","created":null,"active":1,"attributes":null}',
+);

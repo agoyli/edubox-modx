@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'backupmodx',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'd7580fe9179d44533b5ee764d1d05a86',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '57f856469f4d16fd33431c9a114b2c3e',
+  'native_key' => 'backupmodx.cronDatabase',
+  'object' => '{"key":"backupmodx.cronDatabase","value":"true","xtype":"combo-boolean","namespace":"backupmodx","area":"Cron","editedon":null,"name":"Backup Database","description":"Whether or not to include Database in Cron-Backup."}',
+);
